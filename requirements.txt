@@ -37,6 +37,7 @@ PyMuPDF
 pySmartDL
 python-barcode
 pytz
+py-tgcalls==0.8.2
 qrcode
 requests
 selenium
