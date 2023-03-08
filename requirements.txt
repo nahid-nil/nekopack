@@ -6,7 +6,7 @@ cowpy
 emoji==1.7.0
 fonttools
 geopy
-PyTgCalls==0.9.7
+
 gitpython
 glitch_this
 google-api-python-client
